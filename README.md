@@ -1,23 +1,3 @@
-Cara install ketik:
+# Wingo auto select
 
-apt purge game repo -y (Enter)
-
-apt upgrade (Enter)
-
-pkg install python (Enter)
-
-pip install --upgrade pip (Enter)
-
-pip install requests (Enter)
-
-pip install prettytable (Enter)
-
-pip install termcolor
-
-pkg install git (Enter)
-
-git clone https://github.com/atavps/tsaqif
-
-cd tsaqif (Enter)
-
-python 55five.py (Enter)
+Register : https://55fivec.com/#/register?r_code=yWhqz974105
