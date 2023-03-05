@@ -16,8 +16,8 @@ pip install termcolor
 
 pkg install git (Enter)
 
-git clone https://github.com/atavps/tsaqif
+git clone https://github.com/atavps/maafopik
 
-cd tsaqif (Enter)
+cd maafopik (Enter)
 
 python 55five.py (Enter)
